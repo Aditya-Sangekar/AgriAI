@@ -7,7 +7,7 @@
 // ============================================================
 
 const HF_TOKEN = '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'; // Your Hugging Face token
-const GEMINI_KEY = ''; // Your Google Gemini key
+const GEMINI_KEY = 'AIzaSyD5RIOcMnpFywNB1cGrmIFL2doB2kTvsmY'; // Your Google Gemini key
 const GROQ_KEY = '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'; // Your Groq key (used if Gemini is empty)
 
 // ============================================================
